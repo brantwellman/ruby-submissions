@@ -17,7 +17,8 @@
 
 * GitHub Repo: https://github.com/brantwellman/Turing-Swift-Lyrics-Counter
 * Pig Latin Repo:
-* Event Reporter Repo:
+* Event Reporter Repo: https://github.com/brantwellman/Turing-Event-Reporter
+* Mario: https://gist.github.com/brantwellman/0ef5ad1c0bf08c72cd5a
 
 #### Brenna Martenson
 
